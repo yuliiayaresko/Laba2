@@ -1,0 +1,32 @@
+﻿<professors>
+	<professor name="Іван Іванов" faculty="Комп'ютерні науки" department="Інформаційні технології">
+		<education>
+			<degree type="Базова" institution="Київський університет" year="2005"/>
+		</education>
+	</professor>
+	<professor name="Петро Петров" faculty="Фізика" department="Теоретична фізика">
+		<education>
+			<degree type="Докторська" institution="Харківський університет" year="2010"/>
+		</education>
+	</professor>
+	<professor name="Олена Сидоренко" faculty="Математика" department="Прикладна математика">
+		<education>
+			<degree type="Магістерська" institution="Львівський університет" year="2008"/>
+		</education>
+	</professor>
+	<professor name="Марія Коваленко" faculty="Філологія" department="Сучасні мови">
+		<education>
+			<degree type="Бакалаврська" institution="Київський національний університет" year="2012"/>
+		</education>
+	</professor>
+	<professor name="Олександр Гриценко" faculty="Історія" department="Археологія">
+		<education>
+			<degree type="Кандидатська" institution="Одеський університет" year="2015"/>
+		</education>
+	</professor>
+	<professor name="Юлія Ткаченко" faculty="Соціологія" department="Соціальні науки">
+		<education>
+			<degree type="Докторська" institution="Дніпровський університет" year="2011"/>
+		</education>
+	</professor>
+</professors>
